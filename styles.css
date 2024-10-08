@@ -1,0 +1,29 @@
+
+h1{
+    text-align: center;
+}
+
+body{
+    background-image: url("calculator_backgrounf.jpg");
+    background-color: rgb(255, 255, 255, 0.3); 
+    background-blend-mode: overlay; 
+    background-color: #bebcbc;
+    padding: 35px;
+}
+.calculator{
+    width: 80%;
+  background-color: gray;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}
+
+
+#errorData{
+    color: darkred;
+}
+
+#result{
+    color:darkgreen;
+}
